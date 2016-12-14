@@ -1,0 +1,603 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		CC1E91761D77BFA3000FA066 /* JLCardViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CC1E91751D77BFA3000FA066 /* JLCardViewController.m */; };
+		CC1E91A11D780C97000FA066 /* 5.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = CC1E91971D780C97000FA066 /* 5.jpeg */; };
+		CC1E91A21D780C97000FA066 /* 4.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = CC1E91981D780C97000FA066 /* 4.jpeg */; };
+		CC1E91A31D780C97000FA066 /* 3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = CC1E91991D780C97000FA066 /* 3.jpeg */; };
+		CC1E91A41D780C97000FA066 /* 2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = CC1E919A1D780C97000FA066 /* 2.jpeg */; };
+		CC1E91A51D780C97000FA066 /* 1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = CC1E919B1D780C97000FA066 /* 1.jpeg */; };
+		CC1E91A61D780C97000FA066 /* 7.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = CC1E919C1D780C97000FA066 /* 7.jpeg */; };
+		CC1E91A71D780C97000FA066 /* 8.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = CC1E919D1D780C97000FA066 /* 8.jpeg */; };
+		CC1E91A91D780C97000FA066 /* 0.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = CC1E919F1D780C97000FA066 /* 0.jpeg */; };
+		CC1E91AB1D780CF7000FA066 /* 10.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = CC1E91AA1D780CF7000FA066 /* 10.jpeg */; };
+		CC1E91AD1D780D08000FA066 /* 6.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = CC1E91AC1D780D08000FA066 /* 6.jpeg */; };
+		CC1E91AF1D780D21000FA066 /* 9.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = CC1E91AE1D780D21000FA066 /* 9.jpeg */; };
+		CC1E91B21D7813F2000FA066 /* dislikeBtn.png in Resources */ = {isa = PBXBuildFile; fileRef = CC1E91B01D7813F2000FA066 /* dislikeBtn.png */; };
+		CC1E91B31D7813F2000FA066 /* likeBtn.png in Resources */ = {isa = PBXBuildFile; fileRef = CC1E91B11D7813F2000FA066 /* likeBtn.png */; };
+		CC516F371D76757000A25D60 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CC516F361D76757000A25D60 /* main.m */; };
+		CC516F3A1D76757000A25D60 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = CC516F391D76757000A25D60 /* AppDelegate.m */; };
+		CC516F401D76757000A25D60 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CC516F3E1D76757000A25D60 /* Main.storyboard */; };
+		CC516F421D76757000A25D60 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CC516F411D76757000A25D60 /* Assets.xcassets */; };
+		CC516F451D76757000A25D60 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CC516F431D76757000A25D60 /* LaunchScreen.storyboard */; };
+		CC516F501D76757100A25D60 /* JLCardAnimationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CC516F4F1D76757100A25D60 /* JLCardAnimationTests.m */; };
+		CC516F5B1D76757100A25D60 /* JLCardAnimationUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = CC516F5A1D76757100A25D60 /* JLCardAnimationUITests.m */; };
+		CC516F6A1D76760200A25D60 /* JLDragCardView.m in Sources */ = {isa = PBXBuildFile; fileRef = CC516F691D76760200A25D60 /* JLDragCardView.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		CC516F4C1D76757100A25D60 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = CC516F2A1D76757000A25D60 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = CC516F311D76757000A25D60;
+			remoteInfo = JLCardAnimation;
+		};
+		CC516F571D76757100A25D60 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = CC516F2A1D76757000A25D60 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = CC516F311D76757000A25D60;
+			remoteInfo = JLCardAnimation;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		CC1E91741D77BFA3000FA066 /* JLCardViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JLCardViewController.h; sourceTree = "<group>"; };
+		CC1E91751D77BFA3000FA066 /* JLCardViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JLCardViewController.m; sourceTree = "<group>"; };
+		CC1E91971D780C97000FA066 /* 5.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpeg; sourceTree = "<group>"; };
+		CC1E91981D780C97000FA066 /* 4.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpeg; sourceTree = "<group>"; };
+		CC1E91991D780C97000FA066 /* 3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpeg; sourceTree = "<group>"; };
+		CC1E919A1D780C97000FA066 /* 2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpeg; sourceTree = "<group>"; };
+		CC1E919B1D780C97000FA066 /* 1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpeg; sourceTree = "<group>"; };
+		CC1E919C1D780C97000FA066 /* 7.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 7.jpeg; sourceTree = "<group>"; };
+		CC1E919D1D780C97000FA066 /* 8.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 8.jpeg; sourceTree = "<group>"; };
+		CC1E919F1D780C97000FA066 /* 0.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 0.jpeg; sourceTree = "<group>"; };
+		CC1E91AA1D780CF7000FA066 /* 10.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 10.jpeg; sourceTree = "<group>"; };
+		CC1E91AC1D780D08000FA066 /* 6.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6.jpeg; sourceTree = "<group>"; };
+		CC1E91AE1D780D21000FA066 /* 9.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 9.jpeg; sourceTree = "<group>"; };
+		CC1E91B01D7813F2000FA066 /* dislikeBtn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dislikeBtn.png; sourceTree = "<group>"; };
+		CC1E91B11D7813F2000FA066 /* likeBtn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = likeBtn.png; sourceTree = "<group>"; };
+		CC516F321D76757000A25D60 /* JLCardAnimation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JLCardAnimation.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CC516F361D76757000A25D60 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		CC516F381D76757000A25D60 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		CC516F391D76757000A25D60 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		CC516F3F1D76757000A25D60 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		CC516F411D76757000A25D60 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		CC516F441D76757000A25D60 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		CC516F461D76757000A25D60 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CC516F4B1D76757100A25D60 /* JLCardAnimationTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JLCardAnimationTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		CC516F4F1D76757100A25D60 /* JLCardAnimationTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JLCardAnimationTests.m; sourceTree = "<group>"; };
+		CC516F511D76757100A25D60 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CC516F561D76757100A25D60 /* JLCardAnimationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JLCardAnimationUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		CC516F5A1D76757100A25D60 /* JLCardAnimationUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JLCardAnimationUITests.m; sourceTree = "<group>"; };
+		CC516F5C1D76757100A25D60 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CC516F681D76760200A25D60 /* JLDragCardView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JLDragCardView.h; sourceTree = "<group>"; };
+		CC516F691D76760200A25D60 /* JLDragCardView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JLDragCardView.m; sourceTree = "<group>"; };
+		CC516F6B1D767CBC00A25D60 /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
+		CC516F6C1D767FBE00A25D60 /* CardHeader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CardHeader.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		CC516F2F1D76757000A25D60 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CC516F481D76757100A25D60 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CC516F531D76757100A25D60 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		CC1E91771D7800AE000FA066 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				CC1E91B01D7813F2000FA066 /* dislikeBtn.png */,
+				CC1E91B11D7813F2000FA066 /* likeBtn.png */,
+				CC1E91AA1D780CF7000FA066 /* 10.jpeg */,
+				CC1E91971D780C97000FA066 /* 5.jpeg */,
+				CC1E91981D780C97000FA066 /* 4.jpeg */,
+				CC1E91991D780C97000FA066 /* 3.jpeg */,
+				CC1E91AC1D780D08000FA066 /* 6.jpeg */,
+				CC1E919A1D780C97000FA066 /* 2.jpeg */,
+				CC1E919B1D780C97000FA066 /* 1.jpeg */,
+				CC1E919C1D780C97000FA066 /* 7.jpeg */,
+				CC1E919D1D780C97000FA066 /* 8.jpeg */,
+				CC1E919F1D780C97000FA066 /* 0.jpeg */,
+				CC1E91AE1D780D21000FA066 /* 9.jpeg */,
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
+		CC516F291D76757000A25D60 = {
+			isa = PBXGroup;
+			children = (
+				CC516F6B1D767CBC00A25D60 /* PrefixHeader.pch */,
+				CC516F6C1D767FBE00A25D60 /* CardHeader.h */,
+				CC516F341D76757000A25D60 /* JLCardAnimation */,
+				CC516F4E1D76757100A25D60 /* JLCardAnimationTests */,
+				CC516F591D76757100A25D60 /* JLCardAnimationUITests */,
+				CC516F331D76757000A25D60 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		CC516F331D76757000A25D60 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				CC516F321D76757000A25D60 /* JLCardAnimation.app */,
+				CC516F4B1D76757100A25D60 /* JLCardAnimationTests.xctest */,
+				CC516F561D76757100A25D60 /* JLCardAnimationUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		CC516F341D76757000A25D60 /* JLCardAnimation */ = {
+			isa = PBXGroup;
+			children = (
+				CC1E91771D7800AE000FA066 /* images */,
+				CC516F381D76757000A25D60 /* AppDelegate.h */,
+				CC516F391D76757000A25D60 /* AppDelegate.m */,
+				CC516F681D76760200A25D60 /* JLDragCardView.h */,
+				CC516F691D76760200A25D60 /* JLDragCardView.m */,
+				CC1E91741D77BFA3000FA066 /* JLCardViewController.h */,
+				CC1E91751D77BFA3000FA066 /* JLCardViewController.m */,
+				CC516F3E1D76757000A25D60 /* Main.storyboard */,
+				CC516F411D76757000A25D60 /* Assets.xcassets */,
+				CC516F431D76757000A25D60 /* LaunchScreen.storyboard */,
+				CC516F461D76757000A25D60 /* Info.plist */,
+				CC516F351D76757000A25D60 /* Supporting Files */,
+			);
+			path = JLCardAnimation;
+			sourceTree = "<group>";
+		};
+		CC516F351D76757000A25D60 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				CC516F361D76757000A25D60 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		CC516F4E1D76757100A25D60 /* JLCardAnimationTests */ = {
+			isa = PBXGroup;
+			children = (
+				CC516F4F1D76757100A25D60 /* JLCardAnimationTests.m */,
+				CC516F511D76757100A25D60 /* Info.plist */,
+			);
+			path = JLCardAnimationTests;
+			sourceTree = "<group>";
+		};
+		CC516F591D76757100A25D60 /* JLCardAnimationUITests */ = {
+			isa = PBXGroup;
+			children = (
+				CC516F5A1D76757100A25D60 /* JLCardAnimationUITests.m */,
+				CC516F5C1D76757100A25D60 /* Info.plist */,
+			);
+			path = JLCardAnimationUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		CC516F311D76757000A25D60 /* JLCardAnimation */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CC516F5F1D76757100A25D60 /* Build configuration list for PBXNativeTarget "JLCardAnimation" */;
+			buildPhases = (
+				CC516F2E1D76757000A25D60 /* Sources */,
+				CC516F2F1D76757000A25D60 /* Frameworks */,
+				CC516F301D76757000A25D60 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = JLCardAnimation;
+			productName = JLCardAnimation;
+			productReference = CC516F321D76757000A25D60 /* JLCardAnimation.app */;
+			productType = "com.apple.product-type.application";
+		};
+		CC516F4A1D76757100A25D60 /* JLCardAnimationTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CC516F621D76757100A25D60 /* Build configuration list for PBXNativeTarget "JLCardAnimationTests" */;
+			buildPhases = (
+				CC516F471D76757100A25D60 /* Sources */,
+				CC516F481D76757100A25D60 /* Frameworks */,
+				CC516F491D76757100A25D60 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				CC516F4D1D76757100A25D60 /* PBXTargetDependency */,
+			);
+			name = JLCardAnimationTests;
+			productName = JLCardAnimationTests;
+			productReference = CC516F4B1D76757100A25D60 /* JLCardAnimationTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		CC516F551D76757100A25D60 /* JLCardAnimationUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CC516F651D76757100A25D60 /* Build configuration list for PBXNativeTarget "JLCardAnimationUITests" */;
+			buildPhases = (
+				CC516F521D76757100A25D60 /* Sources */,
+				CC516F531D76757100A25D60 /* Frameworks */,
+				CC516F541D76757100A25D60 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				CC516F581D76757100A25D60 /* PBXTargetDependency */,
+			);
+			name = JLCardAnimationUITests;
+			productName = JLCardAnimationUITests;
+			productReference = CC516F561D76757100A25D60 /* JLCardAnimationUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		CC516F2A1D76757000A25D60 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = job;
+				TargetAttributes = {
+					CC516F311D76757000A25D60 = {
+						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = 8X435B9TQH;
+					};
+					CC516F4A1D76757100A25D60 = {
+						CreatedOnToolsVersion = 7.3.1;
+						TestTargetID = CC516F311D76757000A25D60;
+					};
+					CC516F551D76757100A25D60 = {
+						CreatedOnToolsVersion = 7.3.1;
+						TestTargetID = CC516F311D76757000A25D60;
+					};
+				};
+			};
+			buildConfigurationList = CC516F2D1D76757000A25D60 /* Build configuration list for PBXProject "JLCardAnimation" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = CC516F291D76757000A25D60;
+			productRefGroup = CC516F331D76757000A25D60 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				CC516F311D76757000A25D60 /* JLCardAnimation */,
+				CC516F4A1D76757100A25D60 /* JLCardAnimationTests */,
+				CC516F551D76757100A25D60 /* JLCardAnimationUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		CC516F301D76757000A25D60 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CC1E91AF1D780D21000FA066 /* 9.jpeg in Resources */,
+				CC1E91A51D780C97000FA066 /* 1.jpeg in Resources */,
+				CC1E91A71D780C97000FA066 /* 8.jpeg in Resources */,
+				CC1E91AB1D780CF7000FA066 /* 10.jpeg in Resources */,
+				CC1E91AD1D780D08000FA066 /* 6.jpeg in Resources */,
+				CC1E91B31D7813F2000FA066 /* likeBtn.png in Resources */,
+				CC1E91A91D780C97000FA066 /* 0.jpeg in Resources */,
+				CC516F451D76757000A25D60 /* LaunchScreen.storyboard in Resources */,
+				CC1E91B21D7813F2000FA066 /* dislikeBtn.png in Resources */,
+				CC1E91A11D780C97000FA066 /* 5.jpeg in Resources */,
+				CC1E91A61D780C97000FA066 /* 7.jpeg in Resources */,
+				CC1E91A31D780C97000FA066 /* 3.jpeg in Resources */,
+				CC516F421D76757000A25D60 /* Assets.xcassets in Resources */,
+				CC1E91A21D780C97000FA066 /* 4.jpeg in Resources */,
+				CC1E91A41D780C97000FA066 /* 2.jpeg in Resources */,
+				CC516F401D76757000A25D60 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CC516F491D76757100A25D60 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CC516F541D76757100A25D60 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		CC516F2E1D76757000A25D60 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CC516F6A1D76760200A25D60 /* JLDragCardView.m in Sources */,
+				CC516F3A1D76757000A25D60 /* AppDelegate.m in Sources */,
+				CC1E91761D77BFA3000FA066 /* JLCardViewController.m in Sources */,
+				CC516F371D76757000A25D60 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CC516F471D76757100A25D60 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CC516F501D76757100A25D60 /* JLCardAnimationTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CC516F521D76757100A25D60 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CC516F5B1D76757100A25D60 /* JLCardAnimationUITests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		CC516F4D1D76757100A25D60 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = CC516F311D76757000A25D60 /* JLCardAnimation */;
+			targetProxy = CC516F4C1D76757100A25D60 /* PBXContainerItemProxy */;
+		};
+		CC516F581D76757100A25D60 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = CC516F311D76757000A25D60 /* JLCardAnimation */;
+			targetProxy = CC516F571D76757100A25D60 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		CC516F3E1D76757000A25D60 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CC516F3F1D76757000A25D60 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		CC516F431D76757000A25D60 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CC516F441D76757000A25D60 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		CC516F5D1D76757100A25D60 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		CC516F5E1D76757100A25D60 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		CC516F601D76757100A25D60 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 8X435B9TQH;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = PrefixHeader.pch;
+				INFOPLIST_FILE = JLCardAnimation/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.JLCardAnimation;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		CC516F611D76757100A25D60 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 8X435B9TQH;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = PrefixHeader.pch;
+				INFOPLIST_FILE = JLCardAnimation/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.JLCardAnimation;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		CC516F631D76757100A25D60 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = JLCardAnimationTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.JLCardAnimationTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/JLCardAnimation.app/JLCardAnimation";
+			};
+			name = Debug;
+		};
+		CC516F641D76757100A25D60 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = JLCardAnimationTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.JLCardAnimationTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/JLCardAnimation.app/JLCardAnimation";
+			};
+			name = Release;
+		};
+		CC516F661D76757100A25D60 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = JLCardAnimationUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.JLCardAnimationUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = JLCardAnimation;
+			};
+			name = Debug;
+		};
+		CC516F671D76757100A25D60 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = JLCardAnimationUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.JLCardAnimationUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = JLCardAnimation;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CC516F2D1D76757000A25D60 /* Build configuration list for PBXProject "JLCardAnimation" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CC516F5D1D76757100A25D60 /* Debug */,
+				CC516F5E1D76757100A25D60 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CC516F5F1D76757100A25D60 /* Build configuration list for PBXNativeTarget "JLCardAnimation" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CC516F601D76757100A25D60 /* Debug */,
+				CC516F611D76757100A25D60 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CC516F621D76757100A25D60 /* Build configuration list for PBXNativeTarget "JLCardAnimationTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CC516F631D76757100A25D60 /* Debug */,
+				CC516F641D76757100A25D60 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CC516F651D76757100A25D60 /* Build configuration list for PBXNativeTarget "JLCardAnimationUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CC516F661D76757100A25D60 /* Debug */,
+				CC516F671D76757100A25D60 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CC516F2A1D76757000A25D60 /* Project object */;
+}
